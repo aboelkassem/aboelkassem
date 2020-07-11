@@ -6,6 +6,7 @@ I'm a Software Engineering/CS Student at [@beni_suef university](http://www.fci.
 - ⚡️ Technologies I work with: C#, ASP.NET MVC, ASP.NET Core, Web API, JavaScript, TypeScript, Angular, CSS, HTML, EntityFramework core, Bootstrap, Reactjs and more ....
 - 📫 for more reach me at linkedin: [@aboelkassem](https://www.linkedin.com/in/aboelkassem)
 - 📭 Reach me at [@aboel_kassem](https://twitter.com/aboel_kassem)
+- 👯 Looking for an internship.
 
 
 <!--
