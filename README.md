@@ -8,7 +8,11 @@ I'm a Software Engineering/CS Student at [@beni_suef university](http://www.fci.
 - 📭 Reach me at [@aboel_kassem](https://twitter.com/aboel_kassem)
 - 👯 Looking for an internship.
 
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aboelkassem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ab0elkassem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aboel_kassem)  [<img src='https://img.icons8.com/android/24/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mo.aboelkassem)  
 
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=aboelkassem&show_icons=true)
 <!--
 **aboelkassem/aboelkassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
