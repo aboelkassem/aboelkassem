@@ -9,7 +9,7 @@ I'm a Software Engineering/CS Student at [@beni_suef university](http://www.fci.
 - 👯 Looking for an internship.
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=css,html)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aboelkassem&show_icons=true)
 
