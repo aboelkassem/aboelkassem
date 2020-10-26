@@ -6,10 +6,10 @@
 
 I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://www.fci.bsu.edu.eg/) at Egypt, pursuing a Masters in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
-[![twitter badge](https://img.shields.io/badge/twitter-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
-[![dev.to badge](https://img.shields.io/badge/linkedin-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
-[![glitch badge](https://img.shields.io/badge/facebook-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
-[![twitter badge](https://img.shields.io/badge/instagram-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
+[![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
+[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
+[![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
+[![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 
