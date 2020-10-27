@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mohammed 👋🏼👨🏻‍💻
 
-I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://www.fci.bsu.edu.eg/) at Egypt, pursuing a Masters in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
+I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://www.fci.bsu.edu.eg/) at Egypt, pursuing a Bachelor's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
@@ -63,7 +63,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![Covid19TrackerAPI](https://img.shields.io/badge/-😷%20Covid19TrackerAPI-fff?)](https://github.com/aboelkassem/Covid19Tracker)
 
 <br>
-<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.aboelkassem.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 <!--
 **aboelkassem/aboelkassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
