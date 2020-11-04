@@ -52,7 +52,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 
 <!-- wi*quL3fcV -->
 
-#### Web/Full Stack projects
+#### Full Stack projects
 
 [![Listify](https://img.shields.io/badge/-🎵%20Listify-fff?)](https://github.com/aboelkassem/Listify)
 [![Chatting App](https://img.shields.io/badge/-💬%20Chatting%20App-fff?)](https://github.com/aboelkassem/ChattingApp)
