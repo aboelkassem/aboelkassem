@@ -13,7 +13,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 
-- :school: I'm currently studing in ... [Faculty of Computers & Artificial Intelligence - Beni Suef University](http://www.fci.bsu.edu.eg/) Egypt
+- :school: I'm currently studying in ... [Faculty of Computers & Artificial Intelligence - Beni Suef University](http://www.fci.bsu.edu.eg/) Egypt
 - 🌱 I’m currently learning Software Engineering Principles, Software Architecture and Most Famous Design Patterns
 - 👨‍💻 All of my projects are available  [here](https://github.com/aboelkassem?tab=repositories)
 - 👯 I’m looking to collaborate on ... Any of project
