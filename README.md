@@ -9,7 +9,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
 [![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedabdelrahman972@gmail.com)](mailto:mohamedabdelrahman972@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=201154321101&text=Hi!🖖)
+<!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=201154321101&text=Hi!🖖)-->
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 
