@@ -8,7 +8,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
 [![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
 [![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedabdelrahman972@gmail.com)](mailto:mohamedabdelrahman972@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:aboelkassem.me@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 
