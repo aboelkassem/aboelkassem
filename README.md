@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/Ou2hdJ2OT6HCboL3xC/giphy.gif" width="100%">
 
-### Hi, I'm <a href="https://www.aboelkassem.com">Mohammed</a> 👋🏼👨🏻‍💻
+### Hi, I'm <a href="https://www.aboelkassem.me">Mohammed</a> 👋🏼👨🏻‍💻
 
 I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://www.fci.bsu.edu.eg/) at Egypt, pursuing a Bachelor's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
@@ -8,7 +8,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
 [![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
 [![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:aboelkassem.me@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:contact@aboelkassem.me)
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 
@@ -63,7 +63,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![Covid19TrackerAPI](https://img.shields.io/badge/-😷%20Covid19TrackerAPI-fff?)](https://github.com/aboelkassem/Covid19Tracker)
 
 <br>
-<a href="https://www.aboelkassem.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<a href="https://www.aboelkassem.me/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 <!--
 **aboelkassem/aboelkassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
