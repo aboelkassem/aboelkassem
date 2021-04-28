@@ -37,6 +37,7 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
 ![SignalR](https://img.shields.io/badge/-SignalR-fff?style=flat&logo=signalr&logoColor=blue)
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
+![xUnit](https://img.shields.io/badge/-xUnit-fff?style=flat&logo=xunit&logoColor=blue)
 ![Material Design](https://img.shields.io/badge/-Material%20Design-fff?style=flat&logo=material-design&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
@@ -61,6 +62,8 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 [![Library](https://img.shields.io/badge/-📚%20Library-fff?)](https://github.com/aboelkassem/Library_WebApplication)
 [![IdentifyImages](https://img.shields.io/badge/-🖼️%20IdentifyImages-fff?)](https://github.com/aboelkassem/IdentifyImages)
 [![Covid19TrackerAPI](https://img.shields.io/badge/-😷%20Covid19TrackerAPI-fff?)](https://github.com/aboelkassem/Covid19Tracker)
+[![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/aboelkassem/Personal-Website)
+[![Blog](https://img.shields.io/badge/-📰%20Blog-fff?)](https://github.com/aboelkassem/blog)
 
 <br>
 <a href="https://www.aboelkassem.me/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
