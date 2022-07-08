@@ -68,7 +68,7 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 [![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/aboelkassem/Personal-Website)
 [![Blog](https://img.shields.io/badge/-📰%20Blog-fff?)](https://github.com/aboelkassem/blog)
 
-#### Machine learning projects
+#### Machine Learning projects
 [![Attendance System](https://img.shields.io/badge/-😎%20Attendance%20System-fff?)](https://github.com/space-codes/attendance-system)
 [![IdentifyImages](https://img.shields.io/badge/-🖼️%20IdentifyImages-fff?)](https://github.com/aboelkassem/IdentifyImages)
 
