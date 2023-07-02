@@ -2,7 +2,7 @@
 
 ### Hi, I'm <a href="https://www.aboelkassem.me">Mohammed</a> 👋🏼👨🏻‍💻
 
-I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.me](https://blog.aboelkassem.me). I'm passionate about Software development, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.me/). There are many others I have contributed to which you can see in my GitHub profile and of course there are other commercial projects that I cannot disclose.<br/>
+I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.me](https://blog.aboelkassem.me). I'm passionate about Software development, Web Security, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.me/).  I've also made contributions to various other projects, which you can explore on my GitHub profile. Additionally, I've worked on several exciting commercial projects, although I'm unable to disclose the details here.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
