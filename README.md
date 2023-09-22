@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/Ou2hdJ2OT6HCboL3xC/giphy.gif" width="100%">
 
-### Hi, I'm <a href="https://www.aboelkassem.me">Mohammed</a> 👋🏼👨🏻‍💻
+### Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
 
-I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.me](https://blog.aboelkassem.me). I'm passionate about Software development, Web Security, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.me/).  I've also made contributions to various other projects, which you can explore on my GitHub profile. Additionally, I've worked on several exciting commercial projects, although I'm unable to disclose the details here.<br/>
+I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). I'm passionate about Software development, Web Security, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/).  I've also made contributions to various other projects, which you can explore on my GitHub profile. Additionally, I've worked on several exciting commercial projects, although I'm unable to disclose the details here.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
@@ -75,7 +75,7 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 [![IdentifyImages](https://img.shields.io/badge/-🖼️%20IdentifyImages-fff?)](https://github.com/aboelkassem/IdentifyImages)
 
 <br>
-<a href="https://www.aboelkassem.me/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<a href="https://www.aboelkassem.tech/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 <!--
 **aboelkassem/aboelkassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
