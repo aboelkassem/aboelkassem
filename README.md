@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/Ou2hdJ2OT6HCboL3xC/giphy.gif" width="100%">
 
-### Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
+Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
 
 I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). I'm passionate about Software development, Web Security, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/).  I've also made contributions to various other projects, which you can explore on my GitHub profile. Additionally, I've worked on several exciting commercial projects, although I'm unable to disclose the details here.<br/>
 
