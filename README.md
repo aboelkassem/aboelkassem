@@ -6,7 +6,6 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 
 [![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
-[![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:contact@aboelkassem.me)
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![githubbadge](https://img.shields.io/github/stars/aboelkassem?style=social)
