@@ -14,7 +14,7 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 
 
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/aboelkassem?tab=repositories)
+- 👨‍💻 All of my personal projects are available [here](https://github.com/aboelkassem?tab=repositories)
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... He
@@ -55,23 +55,6 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
-
-<!-- wi*quL3fcV -->
-
-#### Full Stack projects
-
-[![Listify](https://img.shields.io/badge/-🎵%20Listify-fff?)](https://github.com/aboelkassem/Listify)
-[![Chatting App](https://img.shields.io/badge/-💬%20Chatting%20App-fff?)](https://github.com/aboelkassem/ChattingApp)
-[![Foods](https://img.shields.io/badge/-🍔%20Foods-fff?)](https://github.com/aboelkassem/Foods_Restaurant)
-[![Swagger](https://img.shields.io/badge/-📑%20Parky-fff?)](https://github.com/aboelkassem/Parky)
-[![Library](https://img.shields.io/badge/-📚%20Library-fff?)](https://github.com/aboelkassem/Library_WebApplication)
-[![Covid19TrackerAPI](https://img.shields.io/badge/-😷%20Covid19TrackerAPI-fff?)](https://github.com/aboelkassem/Covid19Tracker)
-[![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/aboelkassem/Personal-Website)
-[![Blog](https://img.shields.io/badge/-📰%20Blog-fff?)](https://github.com/aboelkassem/blog)
-
-#### Machine Learning projects
-[![Attendance System](https://img.shields.io/badge/-😎%20Attendance%20System-fff?)](https://github.com/space-codes/attendance-system)
-[![IdentifyImages](https://img.shields.io/badge/-🖼️%20IdentifyImages-fff?)](https://github.com/aboelkassem/IdentifyImages)
 
 <br>
 <a href="https://www.aboelkassem.tech/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
