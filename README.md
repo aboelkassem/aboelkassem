@@ -2,10 +2,11 @@
 
 Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
 
-I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). I'm passionate about Software development, Web Security, Machine Learning, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/).  I've also made contributions to various other projects, which you can explore on my GitHub profile. Additionally, I've worked on several exciting commercial projects, although I'm unable to disclose the details here.<br/>
+I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). I'm passionate about building staff, Distributed Systems, Web Security, and Open Source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://leetcode.com/maboelkassem)](https://leetcode.com/maboelkassem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:contact@aboelkassem.me)
 ![githubbadge](https://img.shields.io/github/followers/aboelkassem?style=social)
 ![githubbadge](https://img.shields.io/github/stars/aboelkassem?style=social)
@@ -22,6 +23,7 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 #### Languages
 
 [![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)]
+[![Go](https://img.shields.io/badge/-Go-fff?style=flat&logo=go)]
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=blue)]
 [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
