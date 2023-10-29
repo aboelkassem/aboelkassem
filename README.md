@@ -62,6 +62,15 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 <a href="https://www.aboelkassem.tech/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=aboelkassem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+Go           52 mins         ██████████████████▒░░░░░░   73.00 %
+JSON         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+C#           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Binary       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
