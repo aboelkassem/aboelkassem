@@ -64,11 +64,11 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 <!--START_SECTION:waka-->
 
 ```txt
-Go           11 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   43.29 %
-C#           7 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-Binary       2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Razor        2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C#           9 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.26 %
+Go           7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
+Binary       3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Razor        2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
