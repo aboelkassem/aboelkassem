@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Ou2hdJ2OT6HCboL3xC/giphy.gif" width="100%">
+<img src="/panel.gif" width="100%">
 
 Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
 
