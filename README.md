@@ -16,8 +16,8 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 
 
 - 👨‍💻 All of my personal projects are available [here](https://github.com/aboelkassem?tab=repositories)
-- 👯 I’m looking to collaborate on ... Any of project
-- 💬 Ask me about ... What ever.... :laughing:
+- 👯 I’m looking to collaborate on OSS projects
+- 💬 Ask me about designing distributed systems and web security :laughing:
 - 😄 Pronouns: ... He
 
 #### Languages
