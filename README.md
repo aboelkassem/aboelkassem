@@ -1,8 +1,8 @@
-<img src="/panel.gif" width="100%">
+## Hi there! 👋🏻
 
-Hi, I'm <a href="https://www.aboelkassem.tech">Mohammed</a> 👋🏼👨🏻‍💻
+I'm <a href="https://www.aboelkassem.tech">Mohammed</a>, a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). 
 
-I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) and blogger at [blog.aboelkassem.tech](https://blog.aboelkassem.tech). I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
+I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my open source projects that I have started and maintained in my [portfolio](https://www.aboelkassem.tech/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
@@ -18,6 +18,7 @@ I'm a Software Developer at [SilverKey Technologies](https://silverkeytech.com) 
 - 👨‍💻 All of my personal projects are available [here](https://github.com/aboelkassem?tab=repositories)
 - 👯 I’m looking to collaborate on OSS projects
 - 💬 Ask me about designing distributed systems and web security :laughing:
+- 💜 Like C#, Go Lang
 - 😄 Pronouns: ... He
 
 #### Languages
