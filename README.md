@@ -65,11 +65,11 @@ I'm passionate about building staff, with a focus on distributed systems, web se
 <!--START_SECTION:waka-->
 
 ```txt
-C#       8 hrs 3 mins    ██████████████████▓░░░░░░   74.76 %
-Binary   2 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+C#       8 hrs           ██████████████████▓░░░░░░   75.25 %
+Binary   2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.26 %
 JSON     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-XML      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+XML      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
