@@ -65,7 +65,9 @@ I'm passionate about building staff, with a focus on distributed systems, web se
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 min           ███████████████████▒░░░░░   77.03 %
+Vue.js       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+JSON         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
 ```
 
 <!--END_SECTION:waka-->
