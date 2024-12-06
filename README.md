@@ -27,7 +27,7 @@ I'm passionate about building staff, with a focus on distributed systems, web se
 <!--START_SECTION:waka-->
 
 ```txt
-Binary   0 secs          █████████████████████████   100.00 %
+Binary   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
