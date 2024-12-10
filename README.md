@@ -8,8 +8,8 @@ I'm passionate about building staff, with a focus on distributed systems, web se
 [![dev.to badge](https://img.shields.io/badge/-mkassm-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mkassm)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://leetcode.com/mkassm)](https://leetcode.com/mkassm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammed.a.kassm@gmail.com)](mailto:mohammed.a.kassm@gmail.com)
-![githubbadge](https://img.shields.io/github/followers/mkassm?style=social)
-![githubbadge](https://img.shields.io/github/stars/mkassm?style=social)
+<!--![githubbadge](https://img.shields.io/github/followers/mkassm?style=social)-->
+<!--![githubbadge](https://img.shields.io/github/stars/mkassm?style=social)-->
 ![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
 <!--[![committers.top badge](https://user-badge.committers.top/egypt_private/mkassm.svg)](https://user-badge.committers.top/egypt_private/mkassm)-->
 
